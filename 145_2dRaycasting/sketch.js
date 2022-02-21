@@ -38,8 +38,8 @@ function draw(){
     particle.show();
     particle.look(walls);
 
-    xoff += 0.02;
-    yoff += 0.02;
+    xoff += 0.001;
+    yoff += 0.001;
     // ray.show();
     // ray.lookAt(mouseX, mouseY);
 
